@@ -1,3 +1,6 @@
+import 'regenerator-runtime/runtime';
+import axios from 'axios';
+
 'use strict';
 // const axios = require('axios');
 
